@@ -8,4 +8,4 @@ Total of constituent pollutants reduced (stacked area charts). The figures below
 ![](output-figures/delhi_stacked_area2020.png)
 
 The figure below shows the percent change in AQI from 2019 to 2020:
-![](output-figures/gmap AQI change.png)
+![](output-figures/gmap%20AQI%20change.png)
